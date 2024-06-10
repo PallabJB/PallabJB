@@ -1,7 +1,10 @@
+![logo](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+
 <h1 align="center">Hi 👋, I'm PallabJB</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/c2/34/ba/c234babb3445ee509569b656ada08cef.gif">
+<img align="right" alt="coding2" width="400" src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b9524eyirj8n2r9nztxsytoz0918x0qozzzus21qfj30&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <a href="https://twitter.com/pallabjb" target="blank"><img src="https://img.shields.io/twitter/follow/pallabjb?logo=twitter&style=for-the-badge" alt="pallabjb" /></a> </p>
